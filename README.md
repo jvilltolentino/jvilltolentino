@@ -10,7 +10,7 @@
 🐦 **Twitter:** [@jvilltolentino](https://twitter.com/jvilltolentino)
  
 
-What's up! I teach Calculus, Power Systems Engineering, and Research Methods at Western Mindanao State University. My goal is to empower our graduate students with critical thinking skills and a good attitude. Additionally, execute responsible research and data analysis on any output, especially those that involve electrical circuits. 
+What's up! I teach Calculus, Power Systems Engineering, and Research Methods at Western Mindanao State University. My goal is to empower our undergraduate students with critical thinking skills and a good attitude. Additionally, execute responsible research and data analysis on any output, especially those that involve electrical circuits. 
 
 *<h3 align="center">A believer of self-learning and collaboration. [Watch this!](https://www.youtube.com/watch?v=dk60sYrU2RU&ab_channel=TED)  </h3>*
  
@@ -34,16 +34,9 @@ What's up! I teach Calculus, Power Systems Engineering, and Research Methods at 
 - BS (2018): Electrical Engineering (Western Mindanao State University)
 
 
-<!--
-**allisonhorst/allisonhorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Data Analysis
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-
--->
+- 👯 I'm interested in working with you on any projects using statistics or artificial intelligence.
+- 🤔 Other than Python and R, I need assistance.
+- 💬 I'm happy to share my thoughts on Time Series with you upon request.
