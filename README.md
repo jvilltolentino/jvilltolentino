@@ -25,7 +25,7 @@ What's up! I teach Calculus, Power Systems Engineering, and Research Methods at 
 ### Experience
 
 - 2018 - present: College Instructor (Western Mindanao State University)
-- 2018 - 2019 : Electrical Engineer ( 3DMags Architecture and Engineering Services) & Guest Lecturer @ WMSU
+- 2018 - 2019 : Electrical Engineer (3DMags Architecture and Engineering Services & Guest Lecturer @ WMSU)
 
 
 ### Education
