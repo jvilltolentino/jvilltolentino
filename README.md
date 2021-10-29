@@ -37,6 +37,6 @@ What's up! I teach Calculus, Power Systems Engineering, and Research Methods at 
 ### Data Analysis
 
 
-- 👯 I'm interested in working with you on any projects using statistics or artificial intelligence.
-- 🤔 Other than Python and R, I need assistance.
+- 👯 I'm interested in working with you on any projects involving statistics and artificial intelligence.
+- 🤔 Other than Python, R, LaTeX, Arduino, and a little bit of C/C++ I need assistance.
 - 💬 I'm happy to share my thoughts on Predictive Analytics upon request.
