@@ -39,4 +39,4 @@ What's up! I teach Calculus, Power Systems Engineering, and Research Methods at 
 
 - 👯 I'm interested in working with you on any projects using statistics or artificial intelligence.
 - 🤔 Other than Python and R, I need assistance.
-- 💬 I'm happy to share my thoughts on Time Series with you upon request.
+- 💬 I'm happy to share my thoughts on Predictive Analytics upon request.
