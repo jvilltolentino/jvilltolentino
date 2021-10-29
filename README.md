@@ -18,7 +18,7 @@ What's up! I teach Calculus, Power Systems Engineering, and Research Methods at 
 
 ### What am I up to? 
 
-- :computer: I’m currently part of the Project Management Team of WMSU
+- :computer: I’m currently part of the Project Management Team of WMSU, now involved with the Project AMBIANCE of different SUCs in the PH
 
 - :crossed_fingers: At the same time, leading the youth (who are currently the Math and QS Champs) of WMSU IIEE Student Chapter  as their Adviser
   
