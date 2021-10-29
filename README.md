@@ -10,7 +10,7 @@
 🐦 **Twitter:** [@jvilltolentino](https://twitter.com/jvilltolentino)
  
 
-What's up! I teach Calculus, Power Systems Engineering, and Research Methods at Western Mindanao State University. My goal is to guide  our graduate students with critical thinking skills and a good attitude. Additionally, execute responsible research and data analysis on any output, especially those that involve electrical circuits. 
+What's up! I teach Calculus, Power Systems Engineering, and Research Methods at Western Mindanao State University. My goal is to empower our graduate students with critical thinking skills and a good attitude. Additionally, execute responsible research and data analysis on any output, especially those that involve electrical circuits. 
 
 *<h3 align="center">I am also a believer of self-learning and collaboration. </h3>*
  
