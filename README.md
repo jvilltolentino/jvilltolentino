@@ -3,9 +3,9 @@
 <h2 align="center"> Hello friends! Call me Xepher, I'm your friendly neighborhood programmer :man_technologist:  </h2>
 <h3 align="center">  from Atlantis, Philippines :trident: </h3>
 
-📝 **Personal website:** [name-of-vlog](https://link)
+📝 **Personal website:** [jvilltolentino](https://jvilltolentino.github.io/my_blog/about/)
 
-🎨 **R & data science projects blog:** [name-of-vlog](https://link)
+🎨 **R & data science projects blog:** [Projects](https://jvilltolentino.github.io/my_blog/post/)
 
 🐦 **Twitter:** [@jvilltolentino](https://twitter.com/jvilltolentino)
  
